@@ -1,0 +1,24 @@
+:root {
+    /* Цвета текста */
+    --text-color-dark: #000000;
+    --text-color-light: #ffffff;
+    --text-color-gray: #888888;
+    --text-color-accent: #F16214;
+
+    /* Цвет блоков */
+    --background-color-white: #ffffff;
+    --background-color-black: #000000;
+    --background-color-light-orange: #FDE7DC;
+    --background-color-orange: #F16214;
+
+    /* Настройка тени */
+    --box-shadow-low: 0 4px 20px 0 rgba(0, 0, 0, 0.07);
+    --box-shadow-default: 0 22px 52px 0 rgba(0, 0, 0, 0.07);
+    --box-shadow-hover: 5px 15px 45px 0 rgba(0, 0, 0, 0.1);
+
+    /* Настройка обводки */
+    --border-style-default: 2px solid #EEEEEE;
+
+    /* Настройка контейнера */
+    --container-width-y: 1169px;
+}
